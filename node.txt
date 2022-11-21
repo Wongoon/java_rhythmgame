@@ -1,0 +1,4 @@
+sinkhole HD 10
+dustwind SC 9
+flower rocket SC 11
+naughty fairy SC 12
